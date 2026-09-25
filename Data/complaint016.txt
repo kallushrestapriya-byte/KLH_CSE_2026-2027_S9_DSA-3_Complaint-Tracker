@@ -1,0 +1,7 @@
+COMPLAINT ID: C016
+COMPLAINT: Product not working
+CATEGORY: Product Quality
+DESCRIPTION: The product I received does not function properly after installation.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Product inspection or replacement is required.

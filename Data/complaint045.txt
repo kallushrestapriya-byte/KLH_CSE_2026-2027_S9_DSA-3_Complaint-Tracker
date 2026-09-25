@@ -1,0 +1,7 @@
+COMPLAINT ID: C045
+COMPLAINT: Cancelled order refund pending
+CATEGORY: Refund
+DESCRIPTION: My order was cancelled but the corresponding refund is still pending.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Refund processing needs to be reviewed.

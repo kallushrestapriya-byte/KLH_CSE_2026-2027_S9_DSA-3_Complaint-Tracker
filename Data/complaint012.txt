@@ -1,0 +1,7 @@
+COMPLAINT ID: C012
+COMPLAINT: Partial refund received
+CATEGORY: Refund
+DESCRIPTION: I received only part of the refund amount that was expected for my cancelled order.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Refund amount needs to be verified.

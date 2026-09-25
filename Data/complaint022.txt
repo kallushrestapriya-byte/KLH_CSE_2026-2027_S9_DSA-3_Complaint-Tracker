@@ -1,0 +1,7 @@
+COMPLAINT ID: C022
+COMPLAINT: Long waiting time
+CATEGORY: Customer Support
+DESCRIPTION: I had to wait for a long time before receiving assistance from customer support.
+STATUS: Open
+PRIORITY: Low
+RESOLUTION: Customer support response time should be reviewed.

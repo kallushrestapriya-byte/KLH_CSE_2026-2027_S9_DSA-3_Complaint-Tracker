@@ -1,0 +1,7 @@
+COMPLAINT ID: C021
+COMPLAINT: Refund processing delayed
+CATEGORY: Refund
+DESCRIPTION: The refund was approved but the amount has not been credited within the expected time.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Refund processing status needs to be checked.

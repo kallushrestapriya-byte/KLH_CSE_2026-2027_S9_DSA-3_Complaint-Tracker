@@ -1,0 +1,7 @@
+COMPLAINT ID: C026
+COMPLAINT: Payment confirmation not received
+CATEGORY: Payment Issue
+DESCRIPTION: The payment was completed but I did not receive a payment confirmation.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Payment transaction and confirmation need to be verified.

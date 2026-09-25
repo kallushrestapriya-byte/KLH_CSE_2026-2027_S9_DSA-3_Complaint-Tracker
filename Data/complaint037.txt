@@ -1,0 +1,7 @@
+COMPLAINT ID: C037
+COMPLAINT: Refund credited to wrong account
+CATEGORY: Refund
+DESCRIPTION: The refund notification was received but the amount has not appeared in the expected account.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Refund transaction details need to be verified.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C028
+COMPLAINT: Delivery tracking not updated
+CATEGORY: Delivery
+DESCRIPTION: The delivery tracking information has not been updated for several days.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Tracking information needs to be verified.

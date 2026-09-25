@@ -1,0 +1,7 @@
+COMPLAINT ID: C019
+COMPLAINT: Frequent connection drops
+CATEGORY: Internet Service
+DESCRIPTION: My internet connection disconnects repeatedly throughout the day.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Network stability needs to be investigated.

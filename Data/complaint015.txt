@@ -1,0 +1,7 @@
+COMPLAINT ID: C015
+COMPLAINT: Account locked
+CATEGORY: Account
+DESCRIPTION: My account has been locked and I am unable to access the services associated with it.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Account verification is required.

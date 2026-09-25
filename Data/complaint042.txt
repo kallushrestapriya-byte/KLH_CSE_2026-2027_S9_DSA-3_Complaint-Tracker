@@ -1,0 +1,7 @@
+COMPLAINT ID: C042
+COMPLAINT: Card payment declined
+CATEGORY: Payment Issue
+DESCRIPTION: My card payment was declined while attempting to complete an order.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Payment method and transaction status need to be checked.

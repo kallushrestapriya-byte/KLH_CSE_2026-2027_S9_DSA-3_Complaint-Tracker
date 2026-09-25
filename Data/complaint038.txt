@@ -1,0 +1,7 @@
+COMPLAINT ID: C038
+COMPLAINT: Support ticket closed without resolution
+CATEGORY: Customer Support
+DESCRIPTION: My support ticket was marked as closed even though the reported issue remains unresolved.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: The support ticket should be reopened for investigation.

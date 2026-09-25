@@ -1,0 +1,7 @@
+COMPLAINT ID: C046
+COMPLAINT: Unable to contact support
+CATEGORY: Customer Support
+DESCRIPTION: The customer support contact option is not working when I try to report an issue.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Support communication channels need to be checked.

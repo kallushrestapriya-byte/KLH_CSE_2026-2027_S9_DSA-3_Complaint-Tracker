@@ -1,0 +1,7 @@
+COMPLAINT ID: C027
+COMPLAINT: Internet unavailable during working hours
+CATEGORY: Internet Service
+DESCRIPTION: The internet service frequently becomes unavailable during important working hours.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Service availability needs to be investigated.

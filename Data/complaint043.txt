@@ -1,0 +1,7 @@
+COMPLAINT ID: C043
+COMPLAINT: Network outage
+CATEGORY: Internet Service
+DESCRIPTION: The internet service is unavailable in my area due to a network outage.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Network outage investigation is required.

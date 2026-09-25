@@ -1,0 +1,7 @@
+COMPLAINT ID: C011
+COMPLAINT: Slow internet speed
+CATEGORY: Internet Service
+DESCRIPTION: The internet connection is working but the speed is significantly slower than the subscribed plan.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Network performance needs to be investigated.

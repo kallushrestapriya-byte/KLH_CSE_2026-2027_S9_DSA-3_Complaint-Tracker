@@ -1,0 +1,7 @@
+COMPLAINT ID: C032
+COMPLAINT: Product specifications incorrect
+CATEGORY: Product Quality
+DESCRIPTION: The product received does not match the specifications mentioned during purchase.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Product details and replacement options need to be reviewed.

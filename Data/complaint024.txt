@@ -1,0 +1,7 @@
+COMPLAINT ID: C024
+COMPLAINT: Missing product component
+CATEGORY: Product Quality
+DESCRIPTION: One of the required components was missing from the package I received.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Missing component should be provided.

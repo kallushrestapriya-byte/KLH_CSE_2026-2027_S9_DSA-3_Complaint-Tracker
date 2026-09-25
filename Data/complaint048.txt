@@ -1,0 +1,7 @@
+COMPLAINT ID: C048
+COMPLAINT: Product arrived incomplete
+CATEGORY: Product Quality
+DESCRIPTION: The package contains the main product but several accessories are missing.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Missing accessories should be provided.

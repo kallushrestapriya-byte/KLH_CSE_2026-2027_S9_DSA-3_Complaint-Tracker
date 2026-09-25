@@ -1,0 +1,7 @@
+COMPLAINT ID: C014
+COMPLAINT: Package not delivered
+CATEGORY: Delivery
+DESCRIPTION: The tracking information shows that my package was dispatched but it has not been delivered.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Delivery status needs to be investigated.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C039
+COMPLAINT: Verification code not received
+CATEGORY: Account
+DESCRIPTION: I requested an account verification code but the code has not been delivered.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Verification service needs to be checked.

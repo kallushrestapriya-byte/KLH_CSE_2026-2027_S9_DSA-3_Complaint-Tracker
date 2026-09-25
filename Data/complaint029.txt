@@ -1,0 +1,7 @@
+COMPLAINT ID: C029
+COMPLAINT: Refund request rejected
+CATEGORY: Refund
+DESCRIPTION: My refund request was rejected even though the order was cancelled according to the stated policy.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Refund eligibility needs to be reviewed.

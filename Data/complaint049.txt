@@ -1,0 +1,7 @@
+COMPLAINT ID: C049
+COMPLAINT: Subscription charge incorrect
+CATEGORY: Billing
+DESCRIPTION: My subscription bill contains a charge that does not match the selected subscription plan.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Subscription billing needs to be reviewed.

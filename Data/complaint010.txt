@@ -1,0 +1,7 @@
+COMPLAINT ID: C010
+COMPLAINT: Payment failed
+CATEGORY: Payment Issue
+DESCRIPTION: My payment failed during checkout even though sufficient funds were available.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Payment gateway investigation is required.

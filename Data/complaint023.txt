@@ -1,0 +1,7 @@
+COMPLAINT ID: C023
+COMPLAINT: Password reset not working
+CATEGORY: Account
+DESCRIPTION: The password reset link does not allow me to create a new password.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Password reset functionality needs to be investigated.

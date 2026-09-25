@@ -1,0 +1,7 @@
+COMPLAINT ID: C013
+COMPLAINT: Complaint not resolved
+CATEGORY: Customer Support
+DESCRIPTION: I contacted customer support about a previous complaint but the issue has still not been resolved.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: The previous complaint requires further investigation.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C018
+COMPLAINT: Payment reversed unexpectedly
+CATEGORY: Payment Issue
+DESCRIPTION: My payment was initially successful but was later reversed without any explanation.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Payment transaction needs to be reviewed.

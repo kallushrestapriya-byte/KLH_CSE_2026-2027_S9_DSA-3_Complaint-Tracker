@@ -1,0 +1,7 @@
+COMPLAINT ID: C044
+COMPLAINT: Delivery received by wrong person
+CATEGORY: Delivery
+DESCRIPTION: The tracking system shows that my package was delivered but I did not receive it.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Delivery confirmation needs to be investigated.

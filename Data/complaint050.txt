@@ -1,0 +1,7 @@
+COMPLAINT ID: C050
+COMPLAINT: Online payment pending
+CATEGORY: Payment Issue
+DESCRIPTION: My online payment has remained pending for a long time even though the amount was deducted.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Payment gateway status needs to be verified.

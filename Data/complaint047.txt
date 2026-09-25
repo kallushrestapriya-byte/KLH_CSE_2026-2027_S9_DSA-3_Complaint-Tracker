@@ -1,0 +1,7 @@
+COMPLAINT ID: C047
+COMPLAINT: Incorrect account information
+CATEGORY: Account
+DESCRIPTION: Some of the information displayed in my account is incorrect.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Account information needs to be verified and updated.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C020
+COMPLAINT: Incorrect delivery address
+CATEGORY: Delivery
+DESCRIPTION: My order was sent to an incorrect delivery address even though the correct address was provided.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Delivery details need to be corrected.

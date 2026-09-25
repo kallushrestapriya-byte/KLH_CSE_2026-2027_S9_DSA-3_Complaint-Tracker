@@ -1,0 +1,7 @@
+COMPLAINT ID: C036
+COMPLAINT: Package received damaged
+CATEGORY: Delivery
+DESCRIPTION: The package arrived with visible damage and some items inside were affected.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Delivery damage needs to be documented and resolved.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C041
+COMPLAINT: Previous payment shown as unpaid
+CATEGORY: Billing
+DESCRIPTION: A payment that was already completed is still showing as unpaid on my bill.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Payment records need to be reconciled.

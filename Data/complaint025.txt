@@ -1,0 +1,7 @@
+COMPLAINT ID: C025
+COMPLAINT: Unexpected service charge
+CATEGORY: Billing
+DESCRIPTION: An additional service charge appeared on my bill without clear explanation.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Billing statement needs to be reviewed.

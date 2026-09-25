@@ -1,0 +1,7 @@
+COMPLAINT ID: C030
+COMPLAINT: Incorrect information provided
+CATEGORY: Customer Support
+DESCRIPTION: Customer support provided information that did not match the details shown in my account.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: The case requires further clarification.

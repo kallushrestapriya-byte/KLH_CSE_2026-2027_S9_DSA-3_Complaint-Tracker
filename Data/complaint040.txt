@@ -1,0 +1,7 @@
+COMPLAINT ID: C040
+COMPLAINT: Wrong product color received
+CATEGORY: Product Quality
+DESCRIPTION: The product color delivered is different from the color selected during purchase.
+STATUS: Pending
+PRIORITY: Low
+RESOLUTION: Product exchange options need to be reviewed.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C033
+COMPLAINT: Bill generated incorrectly
+CATEGORY: Billing
+DESCRIPTION: The latest bill contains incorrect charges that do not correspond to my usage.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Billing calculation needs to be investigated.

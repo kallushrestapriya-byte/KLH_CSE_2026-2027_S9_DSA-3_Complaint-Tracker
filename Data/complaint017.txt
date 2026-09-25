@@ -1,0 +1,7 @@
+COMPLAINT ID: C017
+COMPLAINT: Duplicate charge
+CATEGORY: Billing
+DESCRIPTION: The same transaction appears to have been charged twice on my account.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Duplicate transaction needs to be investigated.

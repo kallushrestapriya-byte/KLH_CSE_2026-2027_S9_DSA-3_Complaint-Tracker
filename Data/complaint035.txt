@@ -1,0 +1,7 @@
+COMPLAINT ID: C035
+COMPLAINT: Connection unavailable after maintenance
+CATEGORY: Internet Service
+DESCRIPTION: My internet connection has not been restored after scheduled maintenance.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Network restoration needs to be investigated.

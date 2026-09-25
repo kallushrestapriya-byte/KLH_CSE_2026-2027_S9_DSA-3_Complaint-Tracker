@@ -1,0 +1,7 @@
+COMPLAINT ID: C034
+COMPLAINT: Payment charged twice
+CATEGORY: Payment Issue
+DESCRIPTION: My account was charged twice for the same order.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Duplicate payment needs to be verified and corrected.

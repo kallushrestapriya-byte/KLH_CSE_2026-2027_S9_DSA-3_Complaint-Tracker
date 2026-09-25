@@ -1,0 +1,7 @@
+COMPLAINT ID: C031
+COMPLAINT: Unable to update profile
+CATEGORY: Account
+DESCRIPTION: I am unable to update my personal information in my account.
+STATUS: Open
+PRIORITY: Low
+RESOLUTION: Profile update functionality needs to be checked.
