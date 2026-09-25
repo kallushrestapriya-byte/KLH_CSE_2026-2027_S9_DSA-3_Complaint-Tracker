@@ -1,0 +1,7 @@
+COMPLAINT ID: C006
+COMPLAINT: Unable to login
+CATEGORY: Account
+DESCRIPTION: I cannot access my account even after entering the correct password.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Account verification and password assistance are required.

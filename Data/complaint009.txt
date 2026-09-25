@@ -1,0 +1,7 @@
+COMPLAINT ID: C009
+COMPLAINT: Wrong item delivered
+CATEGORY: Delivery
+DESCRIPTION: The item delivered to me is different from the item I ordered.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: The order needs to be verified and the correct item arranged.

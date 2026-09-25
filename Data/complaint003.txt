@@ -1,0 +1,7 @@
+COMPLAINT ID: C003
+COMPLAINT: Refund not received
+CATEGORY: Refund
+DESCRIPTION: I requested a refund for my cancelled order but the refund has not been received yet.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Refund status needs to be checked.

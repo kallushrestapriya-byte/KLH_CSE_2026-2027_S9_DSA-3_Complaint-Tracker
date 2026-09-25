@@ -1,0 +1,7 @@
+COMPLAINT ID: C002
+COMPLAINT: Payment deducted but order not confirmed
+CATEGORY: Payment Issue
+DESCRIPTION: The payment was deducted from my account but the order was not confirmed.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Payment verification is required.

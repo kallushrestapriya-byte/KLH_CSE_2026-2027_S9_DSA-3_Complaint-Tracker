@@ -1,0 +1,7 @@
+COMPLAINT ID: C004
+COMPLAINT: No response from customer support
+CATEGORY: Customer Support
+DESCRIPTION: I contacted customer support several times regarding my issue but have not received a response.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Customer support follow-up is required.

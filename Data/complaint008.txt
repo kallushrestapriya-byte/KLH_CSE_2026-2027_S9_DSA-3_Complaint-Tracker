@@ -1,0 +1,7 @@
+COMPLAINT ID: C008
+COMPLAINT: Incorrect amount charged
+CATEGORY: Billing
+DESCRIPTION: I was charged an amount that is different from the amount shown during checkout.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Billing details need to be reviewed.

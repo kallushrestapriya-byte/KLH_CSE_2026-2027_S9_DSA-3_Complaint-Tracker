@@ -1,0 +1,7 @@
+COMPLAINT ID: C001
+COMPLAINT: Internet connection not working
+CATEGORY: Internet Service
+DESCRIPTION: My internet connection has been unavailable since yesterday and I am unable to access online services.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Technical support investigation is required.

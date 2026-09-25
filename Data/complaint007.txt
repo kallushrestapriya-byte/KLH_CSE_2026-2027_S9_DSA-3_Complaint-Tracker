@@ -1,0 +1,7 @@
+COMPLAINT ID: C007
+COMPLAINT: Damaged product received
+CATEGORY: Product Quality
+DESCRIPTION: The product I received was damaged when the package was opened.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Product replacement or refund is required.

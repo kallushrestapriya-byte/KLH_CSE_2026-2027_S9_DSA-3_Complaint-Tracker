@@ -1,0 +1,7 @@
+COMPLAINT ID: C005
+COMPLAINT: Order delivered late
+CATEGORY: Delivery
+DESCRIPTION: My order was delivered several days later than the expected delivery date.
+STATUS: Resolved
+PRIORITY: Low
+RESOLUTION: The delivery delay was investigated.
