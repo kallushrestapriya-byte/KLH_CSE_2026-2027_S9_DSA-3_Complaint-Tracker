@@ -1,0 +1,7 @@
+COMPLAINT ID: C079
+COMPLAINT: Account notification problem
+CATEGORY: Account
+DESCRIPTION: I am not receiving important notifications related to my account.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Account notification settings need to be checked.

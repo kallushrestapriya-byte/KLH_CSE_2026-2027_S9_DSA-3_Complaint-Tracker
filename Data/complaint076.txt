@@ -1,0 +1,7 @@
+COMPLAINT ID: C076
+COMPLAINT: Delivery location incorrect
+CATEGORY: Delivery
+DESCRIPTION: The delivery was attempted at a location different from the address provided.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Delivery address information needs to be reviewed.

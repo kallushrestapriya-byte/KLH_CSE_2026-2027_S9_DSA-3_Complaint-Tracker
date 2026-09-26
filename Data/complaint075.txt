@@ -1,0 +1,7 @@
+COMPLAINT ID: C075
+COMPLAINT: Service disconnected unexpectedly
+CATEGORY: Internet Service
+DESCRIPTION: My internet service was disconnected even though the account was active.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Service account and network status need to be checked.

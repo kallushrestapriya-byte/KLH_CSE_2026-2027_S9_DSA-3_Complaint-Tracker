@@ -1,0 +1,7 @@
+COMPLAINT ID: C097
+COMPLAINT: Incorrect discount applied
+CATEGORY: Billing
+DESCRIPTION: The discount shown during purchase was not correctly applied to the final bill.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Discount calculation needs to be reviewed.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C061
+COMPLAINT: Refund confirmation missing
+CATEGORY: Refund
+DESCRIPTION: I have not received confirmation that my refund request was processed.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Refund request status needs to be checked.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C066
+COMPLAINT: Wallet payment failed
+CATEGORY: Payment Issue
+DESCRIPTION: The payment made using the online wallet failed during checkout.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Wallet transaction needs to be investigated.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C088
+COMPLAINT: Incorrect product model
+CATEGORY: Product Quality
+DESCRIPTION: The product model delivered is different from the model selected during purchase.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Product order details need to be verified.

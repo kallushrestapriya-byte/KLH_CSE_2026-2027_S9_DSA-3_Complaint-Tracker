@@ -1,0 +1,7 @@
+COMPLAINT ID: C072
+COMPLAINT: Product performance issue
+CATEGORY: Product Quality
+DESCRIPTION: The product does not perform according to the expected specifications.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Product performance needs to be evaluated.

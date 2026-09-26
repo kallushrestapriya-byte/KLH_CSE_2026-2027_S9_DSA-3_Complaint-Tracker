@@ -1,0 +1,7 @@
+COMPLAINT ID: C071
+COMPLAINT: Email update unsuccessful
+CATEGORY: Account
+DESCRIPTION: I cannot change the email address associated with my account.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Account settings need to be checked.

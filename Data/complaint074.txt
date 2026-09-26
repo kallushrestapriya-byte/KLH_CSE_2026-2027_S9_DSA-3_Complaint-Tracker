@@ -1,0 +1,7 @@
+COMPLAINT ID: C074
+COMPLAINT: Payment confirmation delayed
+CATEGORY: Payment Issue
+DESCRIPTION: The payment was completed but confirmation was received much later.
+STATUS: Resolved
+PRIORITY: Low
+RESOLUTION: Payment confirmation delay was investigated.

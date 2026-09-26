@@ -1,0 +1,7 @@
+COMPLAINT ID: C086
+COMPLAINT: Support information unclear
+CATEGORY: Customer Support
+DESCRIPTION: The instructions provided by customer support were unclear and did not resolve my problem.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Clear support instructions are required.

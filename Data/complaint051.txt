@@ -1,0 +1,7 @@
+COMPLAINT ID: C051
+COMPLAINT: Poor network performance
+CATEGORY: Internet Service
+DESCRIPTION: The network performance has been consistently poor despite having an active service plan.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Network performance needs to be investigated.

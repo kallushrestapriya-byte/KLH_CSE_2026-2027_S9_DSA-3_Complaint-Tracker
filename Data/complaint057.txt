@@ -1,0 +1,7 @@
+COMPLAINT ID: C057
+COMPLAINT: Incorrect tax charge
+CATEGORY: Billing
+DESCRIPTION: The tax amount shown on my bill appears to be incorrect.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Tax calculation needs to be reviewed.

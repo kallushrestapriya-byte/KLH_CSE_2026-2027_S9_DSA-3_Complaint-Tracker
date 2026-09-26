@@ -1,0 +1,7 @@
+COMPLAINT ID: C094
+COMPLAINT: Complaint status not updated
+CATEGORY: Customer Support
+DESCRIPTION: The complaint has been submitted but its status has not changed for several days.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Complaint tracking information needs to be updated.

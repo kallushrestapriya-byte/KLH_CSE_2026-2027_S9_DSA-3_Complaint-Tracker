@@ -1,0 +1,7 @@
+COMPLAINT ID: C056
+COMPLAINT: Product stopped working
+CATEGORY: Product Quality
+DESCRIPTION: The product worked initially but stopped functioning after a short period.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Product inspection or replacement is required.

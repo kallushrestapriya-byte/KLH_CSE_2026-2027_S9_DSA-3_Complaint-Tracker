@@ -1,0 +1,7 @@
+COMPLAINT ID: C052
+COMPLAINT: Delivery date changed
+CATEGORY: Delivery
+DESCRIPTION: The expected delivery date was changed several times without providing a clear reason.
+STATUS: Open
+PRIORITY: Low
+RESOLUTION: Delivery scheduling needs to be reviewed.

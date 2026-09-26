@@ -1,0 +1,7 @@
+COMPLAINT ID: C090
+COMPLAINT: Payment timeout
+CATEGORY: Payment Issue
+DESCRIPTION: The payment page timed out while I was completing the transaction.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Payment gateway performance needs to be investigated.

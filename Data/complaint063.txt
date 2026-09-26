@@ -1,0 +1,7 @@
+COMPLAINT ID: C063
+COMPLAINT: Account recovery failed
+CATEGORY: Account
+DESCRIPTION: I followed the account recovery instructions but still cannot regain access.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Account recovery assistance is required.

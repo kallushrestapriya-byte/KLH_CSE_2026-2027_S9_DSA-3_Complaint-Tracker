@@ -1,0 +1,7 @@
+COMPLAINT ID: C062
+COMPLAINT: Support response delayed
+CATEGORY: Customer Support
+DESCRIPTION: Customer support took several days to respond to my complaint.
+STATUS: Open
+PRIORITY: Low
+RESOLUTION: Support response time needs to be reviewed.

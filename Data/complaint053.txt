@@ -1,0 +1,7 @@
+COMPLAINT ID: C053
+COMPLAINT: Refund amount incorrect
+CATEGORY: Refund
+DESCRIPTION: The amount credited as a refund is lower than the amount that was expected.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Refund calculation needs to be verified.

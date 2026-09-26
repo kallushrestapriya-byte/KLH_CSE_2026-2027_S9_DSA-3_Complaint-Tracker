@@ -1,0 +1,7 @@
+COMPLAINT ID: C099
+COMPLAINT: Internet speed below subscribed plan
+CATEGORY: Internet Service
+DESCRIPTION: The internet speed is consistently below the speed included in my subscribed service plan.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Network speed needs to be tested.

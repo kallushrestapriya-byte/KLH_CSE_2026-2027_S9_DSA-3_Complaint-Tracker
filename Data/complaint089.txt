@@ -1,0 +1,7 @@
+COMPLAINT ID: C089
+COMPLAINT: Payment not updated in bill
+CATEGORY: Billing
+DESCRIPTION: A completed payment has not been updated in the latest billing statement.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Payment and billing records need to be synchronized.

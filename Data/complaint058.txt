@@ -1,0 +1,7 @@
+COMPLAINT ID: C058
+COMPLAINT: Transaction failed after confirmation
+CATEGORY: Payment Issue
+DESCRIPTION: The payment screen showed confirmation but the transaction later appeared as failed.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Transaction history needs to be investigated.

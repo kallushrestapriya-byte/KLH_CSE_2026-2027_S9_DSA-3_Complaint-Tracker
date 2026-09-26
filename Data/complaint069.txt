@@ -1,0 +1,7 @@
+COMPLAINT ID: C069
+COMPLAINT: Refund not showing in statement
+CATEGORY: Refund
+DESCRIPTION: The refund was confirmed but it is not visible in my account statement.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Refund transaction needs to be verified.

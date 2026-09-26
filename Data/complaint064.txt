@@ -1,0 +1,7 @@
+COMPLAINT ID: C064
+COMPLAINT: Product packaging damaged
+CATEGORY: Product Quality
+DESCRIPTION: The product packaging was damaged when the order arrived.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Delivery and packaging issue needs to be investigated.

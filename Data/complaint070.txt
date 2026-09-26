@@ -1,0 +1,7 @@
+COMPLAINT ID: C070
+COMPLAINT: Support case assigned incorrectly
+CATEGORY: Customer Support
+DESCRIPTION: My complaint was assigned to a department that does not handle this type of issue.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Complaint should be assigned to the appropriate department.

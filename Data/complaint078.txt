@@ -1,0 +1,7 @@
+COMPLAINT ID: C078
+COMPLAINT: Support ticket duplicated
+CATEGORY: Customer Support
+DESCRIPTION: Multiple support tickets were created for the same complaint.
+STATUS: Open
+PRIORITY: Low
+RESOLUTION: Duplicate tickets should be consolidated.

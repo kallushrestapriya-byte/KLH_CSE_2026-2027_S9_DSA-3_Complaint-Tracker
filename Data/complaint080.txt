@@ -1,0 +1,7 @@
+COMPLAINT ID: C080
+COMPLAINT: Product color different
+CATEGORY: Product Quality
+DESCRIPTION: The color of the delivered product is different from the selected product color.
+STATUS: Pending
+PRIORITY: Low
+RESOLUTION: Product exchange should be considered.

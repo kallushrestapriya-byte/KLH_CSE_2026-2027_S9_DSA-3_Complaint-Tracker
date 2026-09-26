@@ -1,0 +1,7 @@
+COMPLAINT ID: C084
+COMPLAINT: Missing package
+CATEGORY: Delivery
+DESCRIPTION: The delivery status indicates completion but the package cannot be located.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Delivery investigation is required.

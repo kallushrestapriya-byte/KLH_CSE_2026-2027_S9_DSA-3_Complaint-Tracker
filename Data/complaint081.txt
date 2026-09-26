@@ -1,0 +1,7 @@
+COMPLAINT ID: C081
+COMPLAINT: Incorrect outstanding balance
+CATEGORY: Billing
+DESCRIPTION: The outstanding balance shown on my account does not match my recent payment history.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Account balance needs to be reconciled.

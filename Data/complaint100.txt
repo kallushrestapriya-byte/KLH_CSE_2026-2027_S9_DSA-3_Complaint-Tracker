@@ -1,0 +1,7 @@
+COMPLAINT ID: C100
+COMPLAINT: Order delivery complaint
+CATEGORY: Delivery
+DESCRIPTION: My order was delivered later than expected and the delivery status was not updated correctly.
+STATUS: Resolved
+PRIORITY: Medium
+RESOLUTION: Delivery issue was investigated and resolved.

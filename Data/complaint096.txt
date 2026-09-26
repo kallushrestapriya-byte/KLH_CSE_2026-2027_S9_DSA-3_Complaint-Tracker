@@ -1,0 +1,7 @@
+COMPLAINT ID: C096
+COMPLAINT: Product accessory missing
+CATEGORY: Product Quality
+DESCRIPTION: An accessory listed with the product was missing from the delivered package.
+STATUS: Pending
+PRIORITY: Low
+RESOLUTION: Missing accessory should be provided.

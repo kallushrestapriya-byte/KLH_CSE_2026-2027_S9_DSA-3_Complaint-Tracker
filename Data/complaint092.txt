@@ -1,0 +1,7 @@
+COMPLAINT ID: C092
+COMPLAINT: Delivery attempt missed
+CATEGORY: Delivery
+DESCRIPTION: The delivery attempt was marked as unsuccessful even though someone was available at the provided address.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Delivery attempt details need to be verified.

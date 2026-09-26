@@ -1,0 +1,7 @@
+COMPLAINT ID: C055
+COMPLAINT: Account access problem
+CATEGORY: Account
+DESCRIPTION: I am unable to access several features after logging into my account.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Account permissions need to be investigated.

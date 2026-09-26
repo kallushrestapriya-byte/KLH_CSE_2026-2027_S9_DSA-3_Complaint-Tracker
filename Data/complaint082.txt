@@ -1,0 +1,7 @@
+COMPLAINT ID: C082
+COMPLAINT: Bank payment not reflected
+CATEGORY: Payment Issue
+DESCRIPTION: A bank payment was completed but the payment is not reflected in my account.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Bank transaction needs to be verified.

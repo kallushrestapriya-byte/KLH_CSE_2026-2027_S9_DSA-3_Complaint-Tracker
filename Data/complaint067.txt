@@ -1,0 +1,7 @@
+COMPLAINT ID: C067
+COMPLAINT: Slow connection at night
+CATEGORY: Internet Service
+DESCRIPTION: Internet speed becomes very slow during evening and night hours.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Network traffic and performance need to be checked.

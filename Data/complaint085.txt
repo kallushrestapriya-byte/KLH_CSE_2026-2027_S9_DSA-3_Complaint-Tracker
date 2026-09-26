@@ -1,0 +1,7 @@
+COMPLAINT ID: C085
+COMPLAINT: Refund credited late
+CATEGORY: Refund
+DESCRIPTION: The refund was received but it was credited much later than the expected date.
+STATUS: Resolved
+PRIORITY: Low
+RESOLUTION: Refund processing delay was investigated.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C083
+COMPLAINT: Internet service unavailable
+CATEGORY: Internet Service
+DESCRIPTION: My internet service is completely unavailable despite an active subscription.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Network service needs to be restored.

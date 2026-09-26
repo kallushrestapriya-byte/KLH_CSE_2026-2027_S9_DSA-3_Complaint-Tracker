@@ -1,0 +1,7 @@
+COMPLAINT ID: C059
+COMPLAINT: Service activation delayed
+CATEGORY: Internet Service
+DESCRIPTION: I subscribed to the internet service but the service has not been activated as expected.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Service activation status needs to be checked.

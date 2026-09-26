@@ -1,0 +1,7 @@
+COMPLAINT ID: C095
+COMPLAINT: Account details not synchronized
+CATEGORY: Account
+DESCRIPTION: Updated account information is not reflected across all services.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Account synchronization needs to be investigated.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C073
+COMPLAINT: Unrecognized charge
+CATEGORY: Billing
+DESCRIPTION: I noticed a charge on my bill that I do not recognize.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Billing transaction needs to be investigated.

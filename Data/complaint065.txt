@@ -1,0 +1,7 @@
+COMPLAINT ID: C065
+COMPLAINT: Monthly bill increased unexpectedly
+CATEGORY: Billing
+DESCRIPTION: My monthly bill increased even though I did not change my service plan.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Billing changes need to be investigated.

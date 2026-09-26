@@ -1,0 +1,7 @@
+COMPLAINT ID: C077
+COMPLAINT: Refund request still under review
+CATEGORY: Refund
+DESCRIPTION: My refund request has remained under review for an extended period.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Refund review status needs to be checked.

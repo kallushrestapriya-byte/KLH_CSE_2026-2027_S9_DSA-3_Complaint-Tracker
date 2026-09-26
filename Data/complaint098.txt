@@ -1,0 +1,7 @@
+COMPLAINT ID: C098
+COMPLAINT: Payment status incorrect
+CATEGORY: Payment Issue
+DESCRIPTION: The payment was completed successfully but the account still shows the transaction as pending.
+STATUS: Pending
+PRIORITY: High
+RESOLUTION: Payment status needs to be updated.

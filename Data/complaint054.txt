@@ -1,0 +1,7 @@
+COMPLAINT ID: C054
+COMPLAINT: Repeated complaint required
+CATEGORY: Customer Support
+DESCRIPTION: I had to contact customer support multiple times for the same unresolved problem.
+STATUS: Open
+PRIORITY: Medium
+RESOLUTION: Complaint history needs to be reviewed.

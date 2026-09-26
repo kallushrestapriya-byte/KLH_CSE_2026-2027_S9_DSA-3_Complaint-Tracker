@@ -1,0 +1,7 @@
+COMPLAINT ID: C091
+COMPLAINT: Network maintenance extended
+CATEGORY: Internet Service
+DESCRIPTION: Scheduled network maintenance continued longer than the announced maintenance period.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Maintenance status needs to be reviewed.

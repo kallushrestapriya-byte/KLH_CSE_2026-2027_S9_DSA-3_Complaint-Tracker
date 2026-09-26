@@ -1,0 +1,7 @@
+COMPLAINT ID: C068
+COMPLAINT: Package delayed in transit
+CATEGORY: Delivery
+DESCRIPTION: The package has remained in transit longer than the expected delivery period.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Shipping status needs to be investigated.

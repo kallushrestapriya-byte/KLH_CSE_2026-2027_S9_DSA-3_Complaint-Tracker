@@ -1,0 +1,7 @@
+COMPLAINT ID: C087
+COMPLAINT: Login verification issue
+CATEGORY: Account
+DESCRIPTION: Additional login verification is failing even when the correct information is provided.
+STATUS: Open
+PRIORITY: High
+RESOLUTION: Login verification needs to be investigated.

@@ -1,0 +1,7 @@
+COMPLAINT ID: C093
+COMPLAINT: Refund method incorrect
+CATEGORY: Refund
+DESCRIPTION: The refund was processed through a payment method different from the original transaction.
+STATUS: Pending
+PRIORITY: Medium
+RESOLUTION: Refund transaction method needs to be reviewed.
